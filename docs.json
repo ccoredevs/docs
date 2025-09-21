@@ -11,17 +11,11 @@
   "navigation": {
     "dropdowns": [
       {
-        "dropdown": "Documentation",
-        "icon": "book",
-        "description": "How to use the Example Co. product",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart"
-            ]
-          }
+        "dropdown": "Changelog",
+        "icon": "history",
+        "description": "Updates and changes",
+        "pages": [
+          "changelog"
         ]
       }
     ]
