@@ -1,10 +1,10 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "maple",
-  "name": "Example Co.",
-  "description": "Example Co. is a company that provides example content and placeholder text.",
+  "name": "Vortex Development",
+  "description": "Vi skapar högkvalitativa skript och resurser för spelutveckling och onlineplattformar. Den här dokumentationen fungerar som en guide för att installera och konfigurera våra produkter, från premiumskript till gratis resurser.",
   "colors": {
-    "primary": "#3B82F6",
+    "primary": "#9b59b6",
     "light": "#F8FAFC",
     "dark": "#0F172A"
   },
@@ -21,22 +21,6 @@
               "index",
               "quickstart"
             ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "settings",
-              "users",
-              "features"
-            ]
-          },
-          {
-            "group": "Billing",
-            "pages": [
-              "billing/overview",
-              "billing/payments",
-              "billing/subscriptions"
-            ]
           }
         ]
       }
@@ -51,7 +35,7 @@
     "links": [
       {
         "label": "Community",
-        "href": "https://example.com/community"
+        "href": "https://discord.gg/ka3hvcJG6T"
       }
     ],
     "primary": {
@@ -60,40 +44,7 @@
       "href": "https://example.com/start"
     }
   },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/example",
-      "linkedin": "https://www.linkedin.com/company/example",
-      "github": "https://github.com/example",
-      "slack": "https://example.com/community"
-    },
-    "links": [
-      {
-        "header": "Resources",
-        "items": [
-          {
-            "label": "Customers",
-            "href": "https://example.com/customers"
-          },
-          {
-            "label": "Enterprise",
-            "href": "https://example.com/enterprise"
-          },
-          {
-            "label": "Request Preview",
-            "href": "https://example.com/preview"
-          }
-        ]
-      }
-    ]
-  },
   "integrations": {
-    "ga4": {
-      "measurementId": "G-XXXXXXXXXX"
-    },
-    "koala": {
-      "publicApiKey": "pk_example_key_123"
-    },
     "telemetry": {
       "enabled": true
     },
