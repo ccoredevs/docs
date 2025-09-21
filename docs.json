@@ -9,13 +9,21 @@
     "dark": "#0F172A"
   },
   "navigation": {
-    "dropdowns": [
+    "groups": [
       {
-        "dropdown": "Changelog",
-        "icon": "history",
-        "description": "Updates and changes",
+        "group": "Getting started",
+        "icon": "play",
+        "expanded": false,
         "pages": [
-          "changelog"
+          "quickstart",
+          {
+            "group": "Editing",
+            "icon": "pencil",
+            "pages": [
+              "installation",
+              "editor"
+            ]
+          }
         ]
       }
     ]
