@@ -11,17 +11,15 @@
   "navigation": {
     "groups": [
       {
-        "group": "Getting started",
+        "group": "Scripts",
         "icon": "play",
         "expanded": false,
         "pages": [
-          "quickstart",
           {
-            "group": "Editing",
-            "icon": "pencil",
+            "group": "Id Handler",
+            "icon": "id-card",
             "pages": [
-              "installation",
-              "editor"
+              "installation"
             ]
           }
         ]
