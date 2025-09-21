@@ -31,19 +31,6 @@
     "dark": "https://r2.fivemanage.com/GqjwH4AQ2miLHSVNoFNC8/images/Logo%203D%20-%20Vortex%20Essentials.png",
     "href": "https://example.com"
   },
-  "navbar": {
-    "links": [
-      {
-        "label": "Community",
-        "href": "https://discord.gg/ka3hvcJG6T"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Get Started",
-      "href": "https://example.com/start"
-    }
-  },
   "integrations": {
     "telemetry": {
       "enabled": true
